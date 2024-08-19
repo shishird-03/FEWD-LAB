@@ -1,0 +1,47 @@
+body{
+    padding: 10px;
+   
+}
+.name{
+    height:70px;
+    display: flex;
+    justify-content: center;
+    background-color: rgb(61, 114, 172);
+    align-items: center;
+}
+.pic{
+
+display: flex;
+   height: 100px;
+width: 100px;
+position: relative;
+top: 10px;
+left: 700px;}
+.usn{
+    color:rgb(233, 75, 225);
+    font-style: inherit;
+    font-size: medium;
+    text-align: center;
+}
+
+.language{
+    font-size: medium;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.footer{
+    height: 100px;
+    display:flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    background-color: rgb(61, 114,172);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.future{
+    text-align: center;
+}
